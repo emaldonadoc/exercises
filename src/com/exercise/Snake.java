@@ -3,7 +3,7 @@ package com.exercise;
 public class Snake {
 	
 	public static void main(String... args){
-	  snake(3);
+	  snake(6);
 	  System.out.print("\n\n");
 	  snake(4);
 	}
